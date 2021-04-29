@@ -105,3 +105,26 @@ article {
   margin: 40px 0px;
   color: #3BA1BC;
 }
+
+footer {
+  background-color: #3A3A3A;
+  padding: 50px 0px;
+  margin: auto;
+}
+
+.company-info {
+  width: 250px;
+  font-size: .7em;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+}
+
+.footer-links {
+  color: white;
+  font-size: .7em;
+  background-color: inherit;
+  text-align: center;
+}
